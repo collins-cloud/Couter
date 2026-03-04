@@ -25,6 +25,6 @@ Users can increase, decrease, and reset the counter value with interactive butto
 
 ---
 
-✍️ Author
+✍️ Author:  
 Collins Obiorah
 Software Developer & Graphic Designer
